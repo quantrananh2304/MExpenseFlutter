@@ -199,7 +199,6 @@ class _NewTripState extends State<NewTrip> {
                               padding: EdgeInsets.only(bottom: 10),
                               child: TextFormField(
                                 style: const TextStyle(fontSize: 18),
-                                validator: requiredField,
                                 autovalidateMode:
                                     AutovalidateMode.onUserInteraction,
                                 controller: txtDescription,
