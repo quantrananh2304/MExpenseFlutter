@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1053687006155",
+    "firebase_url": "https://mexpenseflutter-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "mexpenseflutter",
+    "storage_bucket": "mexpenseflutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1053687006155:android:6df5e6ed4283de47166c4e",
+        "android_client_info": {
+          "package_name": "com.example.m_expense_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1053687006155-5lft45signr6mgi1uq95trg85p06bfhh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSuYeZ3QbAATuF86Z4RuSoI0DLGdIv1Cw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1053687006155-5lft45signr6mgi1uq95trg85p06bfhh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1053687006155-fuin3opgg013uur3rfg75rtq07h16975.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.mExpenseFlutter"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
